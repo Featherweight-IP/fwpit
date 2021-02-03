@@ -1,0 +1,11 @@
+
+
+menuconfig FW_PIT
+        bool "Featherweight IP PIT"
+        default y
+#       select TICKLESS_CAPABLE
+        help
+          This module implements a kernel device driver for the 
+          Featherweight IP PIT
+
+          
