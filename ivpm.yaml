@@ -1,0 +1,5 @@
+package:
+    name: fwpit
+    version: None
+    deps:
+    dev-deps:
